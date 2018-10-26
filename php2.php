@@ -1,5 +1,7 @@
 <?php
 
-	echo "Primeiro código. Locura!!!";
+$nome = "JORGE BUNDAO";
+
+echo $nome;
 
 ?>
