@@ -22,27 +22,27 @@ var_dump($a < $b);
 echo "<br>";
 
 echo "= Atribui o mesmo valor para o outro: ";
-var_dump($a=$b);  //Fica com o mesmo valor que a outra varievel (atribuição) = 55;
+var_dump($a = $b);  //Fica com o mesmo valor que a outra varievel (atribuição) = 55;
 
 echo "<br>";
 
 echo "== Só compara: ";
-var_dump($c==$b); //Compara e devolve um bool "false"
+var_dump($c == $b); //Comparação de valor e devolve um bool
 
 echo "<br>";
 
 echo "=== Exatamente igual: ";
-var_dump ($d===$b);
+var_dump ($d===$b);	//Compração de valor e tipo denvolvendo um bool
 
 echo "<br>";
 
 echo "!= Valor Diferente: ";
-var_dump($a != $b);
+var_dump($a != $b);	//Compração de diferente de valor
 
 echo "<br>";
 
 echo "!== Valor e Tipo Diferente: ";
-var_dump($a !== $b);
+var_dump($a !== $b);	//Compração de diferente de valor e tipo
 
 
 ?>

@@ -8,8 +8,11 @@ exit; // Código php acaba no exit;
 
 $nome = "JORGE";
 $anoNascimento = 199;
+
 echo  $nome;
+
 echo "<br/>"; //Quebra de linha
+
  unset ($nome); //unset ta limpando a variavel $nome
 
 
