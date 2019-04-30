@@ -14,8 +14,7 @@
     </head>
     
     <body>
-            <h1 align="center" font-size: 2em;><b>Guilherme Jackson Lamim.</b></h1> 
-        <img src="Fotos/Guilherme%20curriculo.jpg" alt="Guilherme J. Lamim" width="300" height="300"  alt="Guilherme" id="Estil">
+            <h1>Guilherme Jackson Lamim.</h1> 
             <ul>Rua Santa Rosa, n°89.<br> 
             Bairro: Itoupava Norte. Blumenau - SC - CEP: 89053-333<br>
             Brasileiro - Solteiro.<br>
